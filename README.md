@@ -1,4 +1,4 @@
-# ActiveCampaign Email Templates Repository
+# TopFinanzas ActiveCampaign Email Templates Repository
 
 ## Overview
 
